@@ -3,7 +3,7 @@ import telebot
 from GPT_token import *
 
 # Токен вашего бота от BotFather
-TOKEN = 'YOUR_TELEGRAM_BOT_TOKEN'
+TOKEN = '7062249945:AAHmQumUDijnWEFXe8pGqGNc8gp3NwqYk3M'
 
 # IAM-токен и ID папки для доступа к Yandex SpeechKit
 IAM_TOKEN = f'{iam_token}'
